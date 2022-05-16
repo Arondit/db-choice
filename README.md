@@ -1,2 +1,2 @@
 # db-choice
-iploma with automatisation of db choice
+Diploma with automatisation of db choice
